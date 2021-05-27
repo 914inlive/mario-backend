@@ -4,7 +4,7 @@
   "author": "",
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build:prod": "vue-cli-service build",
+    "build": "vue-cli-service build",
     "build:boot": "vue-cli-service build --mode boot",
     "build:docker": "vue-cli-service build --mode docker",
     "build:stage": "vue-cli-service build --mode staging",
